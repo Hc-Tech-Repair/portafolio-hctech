@@ -1,4 +1,4 @@
-# HC Tech Repair – Portafolio Técnico
+# 👨‍💻 Harry Correa | HC Tech Repair – Portafolio Técnico
 
 ¡Bienvenido a mi portafolio profesional!  
 Mi nombre es Harry Correa, técnico en redes, sistemas de información y fundador de **HC Tech Repair**.
