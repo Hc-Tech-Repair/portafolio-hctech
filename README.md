@@ -27,13 +27,13 @@ En este espacio comparto ejemplos de mis conocimientos, proyectos y herramientas
 
 ## 🚀 Enlace a mi negocio
 
-Visita nuestra página: [HC Tech Repair](https://tupaginaaqui.com) *(Reemplaza por el URL real cuando esté lista)*
+Visita nuestra página: [HC Tech Repair](https://tupaginaaqui.com)
 
 ---
 
 ## 🤝 Contacto
 
-📧 hctechrepair@email.com  
+📧 hctechrepair88@email.com  
 📱 WhatsApp: (939) 256-9509
 
 ---
